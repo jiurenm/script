@@ -1,0 +1,4 @@
+  int _code;
+  bool _featureFirst;
+  bool _haveRcmdSongs;
+  List<_Recommend2> _recommend;
